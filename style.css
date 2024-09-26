@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 
 :root{
-    --cor-de-fundo: #6A9C89;
-    --cor-primaria: #16423C;
+    --cor-de-fundo:#508C9B;
+    --cor-primaria: #201E43;
     --cor-secundária: #C4DAD2;
     --fonte:  "Nunito", sans-serif;
 }
